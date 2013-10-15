@@ -1,0 +1,1 @@
+PrimeSieve.d: ../PrimeSieve.cpp
